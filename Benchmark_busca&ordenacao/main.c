@@ -54,7 +54,7 @@ int main() {
                 // Chamar as funções de classificação
                 insertionSort(numeros, quantNumeros);
                 bubbleSort(numeros, quantNumeros);
-                sortWithQuickSort(numeros, quantNumeros); // Opcional: Usar o Quick Sort
+                sortWithQuickSort(numeros, quantNumeros);
 
                 // Exibir os números ordenados
                 printf("Números ordenados: ");

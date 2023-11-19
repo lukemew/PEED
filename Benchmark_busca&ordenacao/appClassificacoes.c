@@ -32,7 +32,7 @@ void bubbleSort(int numeros[], int tamanho) {
             }
         }
         if (trocado == 0) {
-            break; // Se nenhum dos elementos for trocado, o vetor é dado como ordenado xD
+            break; // Se nenhum dos elementos for trocado, o vetor é dado como ordenado...
         }
     }
     clock_t fim = clock();
